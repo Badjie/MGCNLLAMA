@@ -1,2 +1,2 @@
 # MGCNLLAMA
-For temporal fraud detection in blockchain transaction networks using the integration of GCN and LlaMA.
+For temporal fraud detection in blockchain transaction networks using the integration of GCN and LlaMA while capturing missing information.
